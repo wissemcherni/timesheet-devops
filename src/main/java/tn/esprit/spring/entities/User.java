@@ -89,6 +89,7 @@ public class User implements Serializable {
 		this.role = role;
 	}
 //test git premier commit 
+//test 2 
 	
 
 }
